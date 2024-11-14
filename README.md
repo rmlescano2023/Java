@@ -5,7 +5,7 @@
 <br>
 
 ## Bingo Game
-This folder contains the final project for the Java course: a terminal-based Bingo Game developed using Java.
+This folder contains the final project for the CMSC22 course: a terminal-based Bingo Game developed using Java.
 
 <br>
 
